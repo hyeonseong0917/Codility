@@ -5,7 +5,6 @@
 // cout << "this is a debug message" << endl;
 
 int solution(vector<int> &A, vector<int> &B) {
-    // Implement your solution here
     if(A.empty()) return 0;
     int ans=0;
     int n=A.size();
